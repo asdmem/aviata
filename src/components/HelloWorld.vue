@@ -89,11 +89,11 @@ export default class HelloWorld extends Vue {
   allCompanies = true;
   constructor() {
     super();
-    this.imgPath.set("Air Astana", "/img/air_astana.png");
-    this.imgPath.set("Scat", "/img/scat.png");
+    this.imgPath.set("Air Astana", "img/air_astana.png");
+    this.imgPath.set("Scat", "img/scat.png");
   }
   async created() {
-    this.tickets = await fetch("/data.json").then(res => res.json());
+    this.tickets = await fetch("data.json").then(res => res.json());
     this.filteredTickets = this.tickets;
     const uniqueNames = new Set<string>();
     this.tickets.forEach(t =>

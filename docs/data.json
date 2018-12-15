@@ -1,0 +1,270 @@
+[
+  {
+    "price": 16500,
+    "flightDuration": "75",
+    "flights": [
+      {
+        "cities": {
+          "departureCity": "Алматы",
+          "departureAirportName": "Алматы",
+          "arrivalCity": "Астана",
+          "arrivalAirportName": "Астана"
+        },
+        "departureTime": "12:00",
+        "departureDate": "21 ноября",
+        "arrivalTime": "13:15",
+        "arrivalDate": "21 ноября",
+        "airline": {
+          "code": "DV",
+          "name": "Scat"
+        }
+      }
+    ]
+  },
+  {
+    "price": 17500,
+    "flightDuration": "75",
+    "flights": [
+      {
+        "cities": {
+          "departureCity": "Алматы",
+          "departureAirportName": "Алматы",
+          "arrivalCity": "Астана",
+          "arrivalAirportName": "Астана"
+        },
+        "departureTime": "12:10",
+        "departureDate": "21 ноября",
+        "arrivalTime": "13:25",
+        "arrivalDate": "21 ноября",
+        "airline": {
+          "code": "KC",
+          "name": "Air Astana"
+        }
+      }
+    ]
+  },
+  {
+    "price": 17770,
+    "flightDuration": "90",
+    "flights": [
+      {
+        "cities": {
+          "departureCity": "Алматы",
+          "departureAirportName": "Алматы",
+          "arrivalCity": "Астана",
+          "arrivalAirportName": "Астана"
+        },
+        "departureTime": "14:00",
+        "departureDate": "21 ноября",
+        "arrivalTime": "15:30",
+        "arrivalDate": "21 ноября",
+        "airline": {
+          "code": "Z9",
+          "name": "Scat"
+        }
+      }
+    ]
+  },
+  {
+    "price": 21400,
+    "flightDuration": "75",
+    "flights": [
+      {
+        "cities": {
+          "departureCity": "Алматы",
+          "departureAirportName": "Алматы",
+          "arrivalCity": "Астана",
+          "arrivalAirportName": "Астана"
+        },
+        "departureTime": "08:00",
+        "departureDate": "21 ноября",
+        "arrivalTime": "9:15",
+        "arrivalDate": "21 ноября",
+        "airline": {
+          "code": "KC",
+          "name": "Air Astana"
+        }
+      }
+    ]
+  },
+  {
+    "price": 23600,
+    "flightDuration": "95",
+    "flights": [
+      {
+        "cities": {
+          "departureCity": "Алматы",
+          "departureAirportName": "Алматы",
+          "arrivalCity": "Астана",
+          "arrivalAirportName": "Астана"
+        },
+        "departureTime": "12:00",
+        "departureDate": "21 ноября",
+        "arrivalTime": "12:35",
+        "arrivalDate": "21 ноября",
+        "airline": {
+          "code": "DV",
+          "name": "Scat"
+        }
+      }
+    ]
+  },
+  {
+    "price": 24500,
+    "flightDuration": "100",
+    "flights": [
+      {
+        "cities": {
+          "departureCity": "Алматы",
+          "departureAirportName": "Алматы",
+          "arrivalCity": "Астана",
+          "arrivalAirportName": "Астана"
+        },
+        "departureTime": "16:35",
+        "departureDate": "21 ноября",
+        "arrivalTime": "18:05",
+        "arrivalDate": "21 ноября",
+        "airline": {
+          "code": "DV",
+          "name": "Scat"
+        }
+      }
+    ]
+  },
+  {
+    "price": 27000,
+    "flightDuration": "330",
+    "flights": [
+      {
+        "cities": {
+          "departureCity": "Алматы",
+          "departureAirportName": "Алматы",
+          "arrivalCity": "Актобе",
+          "arrivalAirportName": "Актобе"
+        },
+        "departureTime": "23:00",
+        "departureDate": "21 ноября",
+        "arrivalTime": "00:45",
+        "arrivalDate": "22 ноября",
+        "airline": {
+          "code": "KC",
+          "name": "Air Astana"
+        }
+      },
+      {
+        "cities": {
+          "departureCity": "Актобе",
+          "departureAirportName": "Актобе",
+          "arrivalCity": "Астана",
+          "arrivalAirportName": "Астана"
+        },
+        "departureTime": "03:00",
+        "departureDate": "22 ноября",
+        "arrivalTime": "04:30",
+        "arrivalDate": "22 ноября",
+        "airline": {
+          "code": "KC",
+          "name": "Air Astana"
+        }
+      }
+    ]
+  },
+  {
+    "price": 34640,
+    "flightDuration": "110",
+    "flights": [
+      {
+        "cities": {
+          "departureCity": "Алматы",
+          "departureAirportName": "Алматы",
+          "arrivalCity": "Астана",
+          "arrivalAirportName": "Астана"
+        },
+        "departureTime": "17:00",
+        "departureDate": "21 ноября",
+        "arrivalTime": "18:50",
+        "arrivalDate": "21 ноября",
+        "airline": {
+          "code": "Z9",
+          "name": "Bek Air"
+        }
+      }
+    ]
+  },
+  {
+    "price": 68300,
+    "flightDuration": "315",
+    "flights": [
+      {
+        "cities": {
+          "departureCity": "Алматы",
+          "departureAirportName": "Алматы",
+          "arrivalCity": "Шымкент",
+          "arrivalAirportName": "Шымкент"
+        },
+        "departureTime": "07:00",
+        "departureDate": "21 ноября",
+        "arrivalTime": "09:30",
+        "arrivalDate": "21 ноября",
+        "airline": {
+          "code": "KC",
+          "name": "Air Astana"
+        }
+      },
+      {
+        "cities": {
+          "departureCity": "Шымкент",
+          "departureAirportName": "Шымкент",
+          "arrivalCity": "Астана",
+          "arrivalAirportName": "Астана"
+        },
+        "departureTime": "10:20",
+        "departureDate": "21 ноября",
+        "arrivalTime": "12:15",
+        "arrivalDate": "21 ноября",
+        "airline": {
+          "code": "Z9",
+          "name": "Bek Air"
+        }
+      }
+    ]
+  },
+  {
+    "price": 76700,
+    "flightDuration": "810",
+    "flights": [
+      {
+        "cities": {
+          "departureCity": "Алматы",
+          "departureAirportName": "Алматы",
+          "arrivalCity": "Павлодар",
+          "arrivalAirportName": "Павлодар"
+        },
+        "departureTime": "20:00",
+        "departureDate": "21 ноября",
+        "arrivalTime": "00:30",
+        "arrivalDate": "22 ноября",
+        "airline": {
+          "code": "DV",
+          "name": "Scat"
+        }
+      },
+      {
+        "cities": {
+          "departureCity": "Павлодар",
+          "departureAirportName": "Павлодар",
+          "arrivalCity": "Астана",
+          "arrivalAirportName": "Астана"
+        },
+        "departureTime": "08:00",
+        "departureDate": "22 ноября",
+        "arrivalTime": "9:30",
+        "arrivalDate": "22 ноября",
+        "airline": {
+          "code": "KC",
+          "name": "Air Astana"
+        }
+      }
+    ]
+  }
+]
